@@ -2,5 +2,5 @@ streamlit
 pymupdf
 python-dotenv
 apify-client
-groq
+openai
 mcp[cli]
